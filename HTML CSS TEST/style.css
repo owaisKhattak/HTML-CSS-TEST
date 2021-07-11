@@ -1,0 +1,160 @@
+
+h2 {
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Half Columns */
+.first {
+    clear: both;
+  }
+  .first div {
+    width: 45%;
+    display: inline-block;
+  }
+  #col1 {
+     color: white; 
+    background-color: black;
+    float: left;
+  }
+
+  #col2 {
+    background-color:black;
+    float: right;
+    color: white;
+  }
+
+  .second {
+    clear: both; 
+  }
+  .second div {
+    width: 45%;
+    display: inline-block; 
+    
+  }
+
+  /* Third Column */ 
+
+  #third {
+     color: white; 
+    background-color: black;
+    float: left;
+    width: 30%;
+ 
+  }
+
+  #t_third {
+
+     color: white; 
+    background-color: black;
+    float: right;
+    width: 65%;
+   margin-top: 15px;
+  }
+
+  #col6 {
+     color: white; 
+    background-color: black;
+    float: right;
+    width: 30%;
+    margin-left: 40px;
+  }
+
+  #col7 {
+    color: white; 
+   background-color: black;
+   float: left;
+   width: 30%;
+   margin-top: 15px;
+   /* margin-right: 5px ; */
+ }
+
+ /* Quater Columns */
+  
+ #quad {
+    color: white; 
+   background-color: black;
+   float: left;
+   width: 20%;
+   /* margin-left: 20px; */
+ }
+
+ #quad2 {
+  color: white; 
+ background-color: black;
+ float: left;
+ width: 20%;
+ margin-left: 100px;
+}
+
+#quad3 {
+  color: white; 
+ background-color: black;
+ float: right;
+ width: 46.4%;
+ /* margin-left: 100px; */
+ margin-top: 15px;
+}
+
+#quad4 {
+  color: white; 
+ background-color: black;
+ float: right;
+ width: 73.7%;
+ /* margin-left: 100px; */
+ margin-top: 15px;
+}
+ 
+/* Fifth Columns */
+
+#fifth {
+  color: white; 
+ background-color: black;
+ float: left;
+ width: 18%;
+ /* margin-left: 20px; */
+}
+
+#fifth2 {
+  color: white; 
+ background-color: black;
+ float: left;
+ width: 18%;
+ margin-top: 15px;
+ /* margin-left: 20px; */
+}
+
+#t_fifth {
+  color: white; 
+ background-color: black;
+ float: right;
+ width: 39.5%;
+ margin-top: 15px;
+ /* margin-left: 20px; */
+}
+ 
+#sixth {
+  color: white; 
+ background-color: black;
+ float: left;
+ width: 15%;
+ margin-left: 20px;
+}
+
+#fifth2 {
+  color: white; 
+ background-color: black;
+ float: left;
+ width: 18%;
+ margin-top: 15px;
+ /* margin-left: 20px; */
+}
+
+#t_fifth {
+  color: white; 
+ background-color: black;
+ float: right;
+ width: 39.5%;
+ margin-top: 15px;
+ /* margin-left: 20px; */
+}
