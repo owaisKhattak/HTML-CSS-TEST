@@ -1,0 +1,87 @@
+
+/* body {
+
+  margin: 0 auto; 
+  line-height: 5%; 
+
+ } */
+
+
+h2 { 
+      margin-top: 15px;
+      margin-bottom: 1px ;
+      color:seagreen;
+      display: block;
+     
+     
+}
+
+.oneHalf{
+          width: 45%;
+          height: 20px;
+          background-color: black;
+          color: chartreuse;
+          border-radius: 8px;
+
+}
+
+.SpaceBetween, .Rev, .SB2{
+              
+              display: flex;
+              justify-content: space-between;
+              
+}
+
+.oneThird, .oneThird2, .twoThird, .oneQuater, .oneQuater2, .twoQuater, .twoQuater2, .threeQuater, .fifth, .twofifth , .fifth3, .fifth4, .sixth, .sixth2, .sixth3, .sixth4, .sixth5{
+
+               width: 30%;
+               height: 20px;
+               background-color: black;
+               color: chartreuse;
+               border-radius: 8px;
+              
+
+}
+
+.oneThird2, .twoQuater2, .threeQuater, .fifth, .twofifth, .fifth3, .fifth4, .sixth, .sixth2, .sixth3, .sixth4, .sixth5{ 
+
+              margin-top: 15px;
+
+}
+
+.twoThird{
+
+           width: 65%;
+           margin-top: 15px;
+
+}
+
+.Rev{
+        flex-direction: row-reverse;
+
+}
+
+.oneQuater, .oneQuater2{
+
+            width: 20% ;
+            
+}
+.oneQuater2, .twoQuater{margin-top: 15px;}
+.twoQuater, .twoQuater2{width: 46.2% ;}
+.twoQuater2{width: 35%;}
+.threeQuater{width: 73%;}
+.fifth{width: 15% ;}
+.twofifth{width: 36%;}
+.fifth3{width: 57%;}
+.fifth4{width: 78.6%;}
+.sixth{width: 10%;}
+.sixth2{width: 28%;}
+.sixth3{width: 46%;}
+.sixth4{width: 64%;}
+.sixth5{width: 82%;}
+.SB2{margin-bottom: 25px;}
+
+
+
+
+
